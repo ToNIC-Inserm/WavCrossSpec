@@ -1,6 +1,8 @@
 # WavCrossSpec
 Wavelet cross-spectrum and time-frequency dependence
 
+<img width="438" height="438" alt="WavCrossSpec_Logo" src="https://github.com/user-attachments/assets/201f16bb-490b-4a28-a9a3-2fbe731af26a" />
+
 --------------------
 
 A new statistical test based on the wavelet cross-spectrum to detect time–frequency dependence between non-stationary signals: Application to the analysis of cortico-muscular interactions
