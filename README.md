@@ -1,5 +1,5 @@
 # WavCrossSpec
-Wavelet cross-spectrum and time-frequency dependence, by Jérémie Bigot (https://sites.google.com/site/webpagejbigot/)
+Wavelet cross-spectrum and time-frequency dependence, by Jérémie Bigot, Marieke Longcamp, Fabien Dal Maso & David Amarantini. Also available at: http://www.math.u-bordeaux1.fr/~jbigot/Site/Software_files/WavCrossSpec.zip
 
 <img width="438" height="438" alt="WavCrossSpec_Logo" src="https://github.com/user-attachments/assets/201f16bb-490b-4a28-a9a3-2fbe731af26a" />
 
